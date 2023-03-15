@@ -28,3 +28,5 @@ Protection (AntiDebug, AntiEmulation, AntiWebSniffers, AntiVM, AntiSandboxie) is
  Self-updating, When a new account is logged or a password changed, the grabber will send it again with the latest information.
 
  Bypasses Anti-Token-Grabbers.
+
+Added group logs
